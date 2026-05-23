@@ -32,7 +32,7 @@ A Python-based healthcare analytics project that analyzes patient claims, utiliz
 ## Machine Learning
 Used Ridge Regression to build a baseline healthcare claim forecasting model.
 
-
+## Folder Structure 
 ```bash
 
 
