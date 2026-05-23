@@ -35,8 +35,7 @@ Used Ridge Regression to build a baseline healthcare claim forecasting model.
 ## Run Project
 ```bash
 
-pip install -r requirements.txt
-python main.py
+
 
 Healthcare-Claims-Analytics/
 │
