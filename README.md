@@ -33,3 +33,31 @@ A Python-based healthcare analytics project that analyzes patient claims, utiliz
 Used Ridge Regression to build a baseline healthcare claim forecasting model.
 
 
+```bash
+
+
+Healthcare-Claims-Analytics/
+│
+├── data/
+│   └── raw/
+│       └── healthcare_claims.csv
+│
+├── src/
+│   ├── data_prep.py
+│   ├── eda.py
+│   ├── segmentation.py
+│   ├── model.py
+│   └── utils.py
+│
+├── reports/
+│   ├── monthly_claim_amount.png
+│   ├── claim_by_department.png
+│   ├── los_vs_claim_amount.png
+│   ├── patient_segments.csv
+│   └── claim_forecast_results.csv
+│
+├── tests/
+├── main.py
+├── requirements.txt
+├── README.md
+└── .gitignore
